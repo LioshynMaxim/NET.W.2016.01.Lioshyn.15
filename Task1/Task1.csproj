@@ -47,16 +47,8 @@
     <Compile Include="Add.cs" />
     <Compile Include="CommonMatrixClass.cs" />
     <Compile Include="IMatrixManipulation.cs" />
-    <Compile Include="Manipulation\Added.cs" />
-    <Compile Include="Manipulation\IManipulation.cs" />
-    <Compile Include="Manipulation\Manipulation.cs" />
     <Compile Include="MatrixException.cs" />
-    <Compile Include="SomeMatrix\DiagMatrix.cs" />
-    <Compile Include="SomeMatrix\MatrixClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SomeMatrix\MatrixEventArgs.cs" />
-    <Compile Include="SomeMatrix\MatrixSymmetric.cs" />
-    <Compile Include="SomeMatrix\SquareMatrixClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="NLog.config">
